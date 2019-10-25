@@ -1,5 +1,5 @@
 FROM alpine:3.7
-LABEL maintainer "Seto Kuslaksono <kuslaksono@gmail.com>"
+LABEL maintainer "Chandra Anwar <chandraanwar91@gmail.com>"
 
 # Initial Setup
 ENV TIMEZONE Asia/Jakarta
