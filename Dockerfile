@@ -14,11 +14,13 @@ RUN apk --no-cache add \
         php7-common \
         php7-ctype \
         php7-curl \
+        php7-dev \
         php7-dom \
         php7-fpm \
         php7-gd \
         php7-intl \
         php7-json \
+        php7-fileinfo \
         php7-mbstring \
         php7-mcrypt \
         php7-mongodb \
